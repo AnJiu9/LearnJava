@@ -9,7 +9,7 @@ public class Example2_3 {
         
         Scanner reader = new Scanner(System.in);
         double sum = 0;
-        int m = o;
+        int m = 0;
         while(reader.hasNextDouble()){
             double x = reader.nextDouble();
             m = m + 1;

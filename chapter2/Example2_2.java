@@ -1,6 +1,3 @@
-import jdk.javadoc.internal.doclets.toolkit.resources.doclets;
-import sun.jvm.hotspot.tools.SysPropsDumper;
-
 public class Example2_2 {
     public static void main(String[] args) {
         byte b = 22;
