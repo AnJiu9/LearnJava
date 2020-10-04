@@ -1,7 +1,4 @@
-package others;
-
-public class SeqList<T> extends Object{				//T 范型类
-	
+public class SeqList<T> extends Object{				//T 范型类	
 	protected int n;
 	protected Object[] element;
 	private static final int MIN_CAPACITY = 16;		//常量
@@ -131,4 +128,6 @@ public class SeqList<T> extends Object{				//T 范型类
 
 	}
 }
+
+
 
